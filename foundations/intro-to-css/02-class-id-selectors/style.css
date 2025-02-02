@@ -1,0 +1,22 @@
+p {
+    background-color: lightpink;
+    font-family: Verdana, dejavu sans, sans-serif;
+}
+
+#one {
+    color: blue;
+    font-size: 36px;    
+}
+.cooler {
+    font-size: 24px;
+}
+#another {
+    background-color:lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+/*
+    i should have added a class="cooler " to <div id="another"> to reduce
+    duplicated code 
+
+*/
